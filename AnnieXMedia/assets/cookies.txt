@@ -1,1 +1,4 @@
-
+# Netscape HTTP Cookie File
+# This is a placeholder cookie file for AnnieXMedia
+# domain    TRUE/FALSE    path    secure    expiration    name    value
+example.com   TRUE   /   FALSE   2147483647   placeholder   placeholder
